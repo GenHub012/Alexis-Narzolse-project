@@ -1,0 +1,11 @@
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\bin\Debug\Alexis Narzolse project.exe.config
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\bin\Debug\Alexis Narzolse project.exe
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\bin\Debug\Alexis Narzolse project.pdb
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\obj\Debug\Alexis Narzolse project.csproj.AssemblyReference.cache
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\obj\Debug\Alexis Narzolse project.csproj.SuggestedBindingRedirects.cache
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\obj\Debug\Alexis_Narzolse_project.Form1.resources
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\obj\Debug\Alexis_Narzolse_project.Properties.Resources.resources
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\obj\Debug\Alexis Narzolse project.csproj.GenerateResource.cache
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\obj\Debug\Alexis Narzolse project.csproj.CoreCompileInputs.cache
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\obj\Debug\Alexis Narzolse project.exe
+C:\Users\genes\source\repos\Alexis Narzolse project\Alexis Narzolse project\obj\Debug\Alexis Narzolse project.pdb
